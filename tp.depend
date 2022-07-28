@@ -1,0 +1,455 @@
+# depslib dependency file v1.0
+1571093287 source:c:\users\maximo\desktop\tp\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+	"C:\Users\Maximo\Desktop\tp\tp\materia.h"
+	"C:\Users\Maximo\Desktop\tp\tp\carrera.h"
+
+1571175849 source:c:\users\maximo\desktop\tp\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+	"C:\Users\Maximo\Desktop\tp\tp\materia.h"
+	"C:\Users\Maximo\Desktop\tp\tp\carrera.h"
+	"C:\Users\Maximo\Desktop\tp\tp\departamento.h"
+
+1571181513 c:\users\maximo\desktop\tp\tp\alumno.h
+
+1570991730 c:\users\maximo\desktop\tp\tp\docente.h
+
+1571178699 c:\users\maximo\desktop\tp\tp\materia.h
+
+1571082827 c:\users\maximo\desktop\tp\tp\carrera.h
+
+1571191127 source:c:\users\maximo\desktop\tp\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+
+1571069831 source:c:\users\maximo\desktop\tp\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+
+1571191215 source:c:\users\maximo\desktop\tp\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+	"C:\Users\Maximo\Desktop\tp\tp\materia.h"
+	"C:\Users\Maximo\Desktop\tp\tp\carrera.h"
+	"C:\Users\Maximo\Desktop\tp\tp\departamento.h"
+	"C:\Users\Maximo\Desktop\tp\tp\universidad.h"
+
+1571089191 c:\users\maximo\desktop\tp\tp\departamento.h
+
+1571176450 c:\users\maximo\desktop\tp\tp\universidad.h
+
+1571090080 source:c:\users\maximo\desktop\tp\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+	"C:\Users\Maximo\Desktop\tp\tp\materia.h"
+
+1571176450 source:c:\users\maximo\desktop\tp\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"C:\Users\Maximo\Desktop\tp\tp\alumno.h"
+	"C:\Users\Maximo\Desktop\tp\tp\docente.h"
+	"C:\Users\Maximo\Desktop\tp\tp\materia.h"
+	"C:\Users\Maximo\Desktop\tp\tp\carrera.h"
+	"C:\Users\Maximo\Desktop\tp\tp\departamento.h"
+	"C:\Users\Maximo\Desktop\tp\tp\universidad.h"
+
+1571280842 source:c:\users\alech\desktop\tp\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"alumno.h"
+	"materia.h"
+	"universidad.h"
+
+1571280842 source:c:\users\alech\desktop\tp\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+
+1571281238 source:c:\users\alech\desktop\tp\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571280842 source:c:\users\alech\desktop\tp\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"docente.h"
+
+1571279285 source:c:\users\alech\desktop\tp\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571280842 source:c:\users\alech\desktop\tp\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+
+1571280199 source:c:\users\alech\desktop\tp\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571282185 c:\users\alech\desktop\tp\tp\alumno.h
+
+1571267153 c:\users\alech\desktop\tp\tp\docente.h
+
+1571262317 c:\users\alech\desktop\tp\tp\materia.h
+
+1571264898 c:\users\alech\desktop\tp\tp\carrera.h
+
+1571281238 c:\users\alech\desktop\tp\tp\departamento.h
+
+1571279235 c:\users\alech\desktop\tp\tp\universidad.h
+
+1571350845 source:c:\users\alech\desktop\tp - copia\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"alumno.h"
+	"materia.h"
+	"universidad.h"
+
+1571282185 c:\users\alech\desktop\tp - copia\tp\alumno.h
+
+1571262317 c:\users\alech\desktop\tp - copia\tp\materia.h
+
+1571350785 c:\users\alech\desktop\tp - copia\tp\universidad.h
+
+1571280842 source:c:\users\alech\desktop\tp - copia\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+
+1571267153 c:\users\alech\desktop\tp - copia\tp\docente.h
+
+1571264898 c:\users\alech\desktop\tp - copia\tp\carrera.h
+
+1571281238 source:c:\users\alech\desktop\tp - copia\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571281238 c:\users\alech\desktop\tp - copia\tp\departamento.h
+
+1571280842 source:c:\users\alech\desktop\tp - copia\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"docente.h"
+
+1571350792 source:c:\users\alech\desktop\tp - copia\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571280842 source:c:\users\alech\desktop\tp - copia\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+
+1571351146 source:c:\users\alech\desktop\tp - copia\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571361023 source:c:\users\alech\desktop\tp - copia - copia\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"alumno.h"
+	"materia.h"
+	"universidad.h"
+
+1571361168 c:\users\alech\desktop\tp - copia - copia\tp\alumno.h
+
+1571262317 c:\users\alech\desktop\tp - copia - copia\tp\materia.h
+
+1571350785 c:\users\alech\desktop\tp - copia - copia\tp\universidad.h
+
+1571280842 source:c:\users\alech\desktop\tp - copia - copia\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+
+1571267153 c:\users\alech\desktop\tp - copia - copia\tp\docente.h
+
+1571264898 c:\users\alech\desktop\tp - copia - copia\tp\carrera.h
+
+1571281238 source:c:\users\alech\desktop\tp - copia - copia\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571281238 c:\users\alech\desktop\tp - copia - copia\tp\departamento.h
+
+1571280842 source:c:\users\alech\desktop\tp - copia - copia\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"docente.h"
+
+1571350792 source:c:\users\alech\desktop\tp - copia - copia\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571280842 source:c:\users\alech\desktop\tp - copia - copia\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+
+1571351146 source:c:\users\alech\desktop\tp - copia - copia\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571365929 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"alumno.h"
+	"materia.h"
+	"universidad.h"
+
+1571365883 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\alumno.h
+
+1571262317 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\materia.h
+
+1571350785 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\universidad.h
+
+1571280842 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+
+1571267153 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\docente.h
+
+1571264898 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\carrera.h
+
+1571281238 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571281238 c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\departamento.h
+
+1571280842 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"docente.h"
+
+1571350792 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571280842 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+
+1571351146 source:c:\users\alech\desktop\entrega\tp - copia - copia - copia\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571351994 source:c:\users\nahuel\desktop\unla\tp - tda\tp\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"alumno.h"
+	"materia.h"
+	"universidad.h"
+
+1571351996 c:\users\nahuel\desktop\unla\tp - tda\tp\alumno.h
+
+1571352000 c:\users\nahuel\desktop\unla\tp - tda\tp\materia.h
+
+1571352000 c:\users\nahuel\desktop\unla\tp - tda\tp\universidad.h
+
+1571351996 source:c:\users\nahuel\desktop\unla\tp - tda\tp\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+
+1571351994 c:\users\nahuel\desktop\unla\tp - tda\tp\docente.h
+
+1571351996 c:\users\nahuel\desktop\unla\tp - tda\tp\carrera.h
+
+1571351996 source:c:\users\nahuel\desktop\unla\tp - tda\tp\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+
+1571351996 c:\users\nahuel\desktop\unla\tp - tda\tp\departamento.h
+
+1571351996 source:c:\users\nahuel\desktop\unla\tp - tda\tp\docente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"docente.h"
+
+1571351996 source:c:\users\nahuel\desktop\unla\tp - tda\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
+1571351998 source:c:\users\nahuel\desktop\unla\tp - tda\tp\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+
+1571352000 source:c:\users\nahuel\desktop\unla\tp - tda\tp\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"docente.h"
+	"materia.h"
+	"carrera.h"
+	"departamento.h"
+	"universidad.h"
+
